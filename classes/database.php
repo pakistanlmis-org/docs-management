@@ -18,10 +18,6 @@ class database {
     private $magic_quotes_active;
     private $real_escape_string_exists;
 
-    /* private $hostname = "localhost";
-      private $username = "epi_usr";
-      private $password = "Gmaw578_";
-      private $db = 'epi'; */
     private $hostname = "localhost";
     private $username = "root";
     private $password = "";
